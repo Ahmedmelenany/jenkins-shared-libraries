@@ -1,6 +1,9 @@
 # jenkins-shared-libraries
 
-# Shared Groovy Libraries - README
+This is some libraries i dealed with them in CI/CD projects.
+
+---
+## Shared Groovy Libraries 
 
 This repository contains a collection of Groovy scripts designed to automate and streamline various DevOps and CI/CD pipeline tasks. Below is a brief description of each script:
 
