@@ -48,7 +48,7 @@ Executes unit tests in a Java project using Maven or Gradle.
 
 ### 11. **slackNotifications.groovy**
 
-Sends pipeline status notifications (e.g., success, failure) to a Slack channel.
+Sends pipeline status notifications (e.g., success, failure, Abort) to a Slack channel.
 
 ### 12. **sonarQubeAnalysis.groovy**
 
@@ -61,3 +61,15 @@ Scans Docker images for vulnerabilities using Trivy.
 ### 14. **unitTest.groovy**
 
 Runs generic unit tests, potentially for non-Java projects.
+
+---
+
+## Usage
+
+Each of these scripts can be integrated into a Jenkins pipeline. Import and use them as needed to automate builds, tests, deployments, and security scans.
+
+---
+
+## Contributions
+
+Feel free to contribute improvements or new scripts via pull requests.
